@@ -18,5 +18,6 @@
   "homepage": "https://github.com/teressa25/bubuolip#readme",
   "dependencies": {
     "bubuolip": "^1.1.2"
-  }
+  },
+  "devDependencies": {}
 }
